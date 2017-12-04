@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map Project</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer</string>
+</resources>
